@@ -15,3 +15,7 @@
 # CrashUser.bat
  a virus that doesn't need administrator access, crashes the pc every time it gets turned on
  https://www.tiktok.com/@scripts.bat/video/7124918384411561222
+
+# CoronaVirus.bat
+ duplicates itself into random mutations
+ https://www.tiktok.com/@scripts.bat/video/7125807672644963589?is_from_webapp=1&sender_device=pc&web_id=7124289662591632902
