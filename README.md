@@ -18,4 +18,4 @@
 
 # CoronaVirus.bat
  duplicates itself into random mutations
- https://www.tiktok.com/@scripts.bat/video/7125807672644963589?is_from_webapp=1&sender_device=pc&web_id=7124289662591632902
+ https://www.tiktok.com/@scripts.bat/video/7125807672644963589
