@@ -19,3 +19,7 @@
 # CoronaVirus.bat
  duplicates itself into random mutations
  https://www.tiktok.com/@scripts.bat/video/7125807672644963589
+
+# FlashingColors.bat
+ shows quickly changing, random colors and changes its size
+ https://www.tiktok.com/@scripts.bat/video/7126247788056235269
