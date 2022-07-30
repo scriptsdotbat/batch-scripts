@@ -4,6 +4,8 @@ C:\~\checkcode.bat
 cls
 
 for /l %%x in (1, 1, 8) do echo.
+echo Created by https://www.tiktok.com/@scripts.bat. Showcase video: https://www.tiktok.com/@scripts.bat/video/7126247788056235269
+echo.
 echo This script will most likely hurt your eyes. If you still want to execute it, press any key.
 pause>>nul
 
