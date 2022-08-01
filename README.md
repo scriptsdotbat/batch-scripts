@@ -23,3 +23,7 @@
 # FlashingColors.bat
  shows quickly changing, random colors and changes its size
  https://www.tiktok.com/@scripts.bat/video/7126247788056235269
+
+# Bootloop.bat
+ puts your pc into bootlooping making you unable to start it up
+ 
